@@ -7,9 +7,11 @@ print(f"hasil {a}")
 print("ini kesekian kali")
 
 print("ini berubah lagi")
-print(jumlahkan(4,5))
-print(jumlahkan(10,20))
 
+def kurangkan(a,b):
+    return a - b
 
 def jumlahkan(a, b):
     return a + b
+
+print(kurangkan(10,90))
