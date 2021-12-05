@@ -9,7 +9,7 @@ print("ini kesekian kali")
 print("ini berubah lagi")
 print(jumlahkan(4,5))
 print(jumlahkan(10,20))
-
+print(jumlahkan(50,60))
 
 def jumlahkan(a, b):
     return a + b
