@@ -11,5 +11,5 @@ print(jumlahkan(4,5))
 print(jumlahkan(10,20))
 
 
-def jumlahkan(a, b)
+def jumlahkan(a, b):
     return a + b
